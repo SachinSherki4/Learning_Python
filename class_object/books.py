@@ -26,7 +26,6 @@ class Book:
         else:
             return f"{self.title} is not checked out."
     
-   # print("Check whether this module running automatically in imported module or not")
-   # check_in()
+
     
     
