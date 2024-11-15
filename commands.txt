@@ -1,0 +1,45 @@
+Clt+Z :  back to project directory
+Alt+F12 : to open terminal
+dir: List files in the current directory.
+cd [dir]: Change directory to [dir].
+cls: Clear the terminal screen.
+copy [source] [destination]: Copy files from [source] to [destination].
+move [source] [destination]: Move files from [source] to [destination].
+del [file]: Delete [file].
+mkdir [dir]: Create a new directory [dir].
+type [file]: Display the contents of [file].
+echo [text]: Print [text] to the terminal.
+exit: Close the terminal.
+
+Python Related Commands
+
+python script_name.py : to run python file
+python : Open Python interactive shell
+python -m venv myenv : Create a virtual environment
+myenv\Scripts\activate : Activate the virtual environment
+deactivate : Deactivate the virtual environment
+
+pip install package_name : Install a package
+pip install --upgrade package_name  : Upgrade a package
+pip uninstall package_name : Uninstall a package
+pip list : List installed packages
+
+Git Commands (Version Control)
+
+git init : Initialize a new Git repository
+git clone https://github.com/username/repository.git  : Clone a repository
+git status : Check the status of the repository
+git add . : Add files to staging area
+git add filename.py : Add specific file to staging area
+git commit -m "Your commit message" : Commit changes
+git push origin branch_name : Push changes to a remote repository
+git pull origin branch_name : Pull the latest changes from the remote repository
+git branch new-branch-name : Create a new branch
+git checkout branch_name : Switch to a different branch
+git log : Show commit history
+
+
+Other Useful Commands in PyCharm Terminal
+
+python script_name.py arg1 arg2 : Run a script with arguments
+python3 --version : Check Python version
