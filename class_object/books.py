@@ -1,9 +1,3 @@
-'''
-Created on Oct 28, 2024
-
-@author: ssherki
-'''
-
 class Book:
     
     def __init__(self,title,auther,ref):

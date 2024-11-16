@@ -1,8 +1,4 @@
-'''
-Created on Oct 28, 2024
 
-@author: ssherki
-'''
 from class_object.books import Book
 class Library:
     def __init__(self):
