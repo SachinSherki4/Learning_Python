@@ -41,7 +41,6 @@ git config --global user.name "Your Name"
 git config --global user.email you@example.com
 git commit --amend --reset-author
 
-
 Other Useful Commands in PyCharm Terminal
 
 python script_name.py arg1 arg2 : Run a script with arguments

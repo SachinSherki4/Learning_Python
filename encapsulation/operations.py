@@ -1,10 +1,5 @@
-'''
-Created on Oct 28, 2024
 
-@author: ssherki
-'''
-
-from encapsulation.bank_account import BankAccount
+#from encapsulation.bank_account import BankAccount
 from encapsulation.saving_account import SavingAccount
 from encapsulation.checking_account import CheckingAccount
 
